@@ -1,3 +1,7 @@
+## uplift modeling을 통한 customer segmentation
+
+#### uplift-ATE score을 통한 광고 집행 고객 분류 문제를 풀어낸 코드입니다.
+
 **데이터 셋 내의 각 집단의 분포가 모두 동일하게 나타나고 있습니다!**<br>
 **이 경우 이 데이터 셋은 random Clinical Trial(랜덤 실험)으로 진행되어 각 집단이 Homogeneous(균일) 성질을 만족하는 것을 알수 있습니다**
 
